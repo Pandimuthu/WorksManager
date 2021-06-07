@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SharedWorks/bin
+/WorksManager/obj
+/WorksManager/bin
+/WorksManagerPackage/bin
+/WorksManagerPackage/obj
+/WpfApp/obj
+/WpfApp/bin/Debug
